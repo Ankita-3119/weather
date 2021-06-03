@@ -1,0 +1,44 @@
+{
+    "coord": {
+    "lon": 12.2797,
+    "lat": 46.7406
+    },
+    "weather": [
+    {
+    "id": 801,
+    "main": "Clouds",
+    "description": "few clouds",
+    "icon": "02d"
+    }
+    ],
+    "base": "stations",
+    "main": {
+    "temp": 288.1,
+    "feels_like": 287.19,
+    "temp_min": 285.61,
+    "temp_max": 288.76,
+    "pressure": 1026,
+    "humidity": 59
+    },
+    "visibility": 10000,
+    "wind": {
+    "speed": 0.5,
+    "deg": 251,
+    "gust": 0.74
+    },
+    "clouds": {
+    "all": 20
+    },
+    "dt": 1622708670,
+    "sys": {
+    "type": 1,
+    "id": 6809,
+    "country": "IT",
+    "sunrise": 1622690388,
+    "sunset": 1622746717
+    },
+    "timezone": 7200,
+    "id": 3168508,
+    "name": "Innichen",
+    "cod": 200
+}
